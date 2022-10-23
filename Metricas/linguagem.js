@@ -14,6 +14,7 @@ const eletronico = document.querySelector('#eletronico');
 const web = document.querySelector('#web');
 const custo = document.querySelector('#custo');
 const valorHora = document.querySelector('#valorHora');
+const prazo = document.querySelector('#prazo');
 
 
 let fa = 1.35;
